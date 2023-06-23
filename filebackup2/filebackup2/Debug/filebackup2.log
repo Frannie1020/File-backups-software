@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\软开实验\2.源代码\filebackup2\filebackup2\main.cpp(423): warning C4715: “Uncompress”: 不是所有的控件路径都返回值
+e:\软开实验\2.源代码\filebackup2\filebackup2\main.cpp(300): warning C4715: “Compress”: 不是所有的控件路径都返回值
+  filebackup2.vcxproj -> E:\软开实验\2.源代码\filebackup2\Debug\filebackup2.exe
